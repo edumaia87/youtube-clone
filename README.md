@@ -30,4 +30,4 @@ npm install
 npm run dev
 ```
 
- Visit [this site](https://6521e9db47086d4e24413d12--famous-frangipane-f322da.netlify.app/) to see the deployed version of the project.
+ Visit [this site](https://youtube-clone-eduardo.netlify.app/) to see the deployed version of the project.
